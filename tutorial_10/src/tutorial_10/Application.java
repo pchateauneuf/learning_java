@@ -12,10 +12,6 @@ public class Application {
 		values[1] = 20;
 		values[2] = 30;
 		
-//		System.out.println(values[0]);
-//		System.out.println(values[1]);
-//		System.out.println(values[2]);
-		
 		System.out.println("values of 'value' array:");
 		
 		for(int i = 0; i < values.length; i++){
