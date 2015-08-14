@@ -4,7 +4,7 @@ public class Application {
 	public static void main(String[] args) {
 		
 		//ONE-DIMENTIONAL ARRAYS
-		int[] values = {3,5,2323};
+		//int[] values = {3,5,2323};
 		//System.out.println(values[2]);
 		
 		//MULTI-DIMENTIONAL ARRAYS
